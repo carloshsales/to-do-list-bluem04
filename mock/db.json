@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "32765c7e-2cee-41b9-8b4e-cfbcf835d6fa",
+      "task": "JECY",
+      "checked": false
+    },
+    {
+      "id": "ecce05f0-18d1-4caf-ba32-bf4fc236269e",
+      "task": "TESTE",
+      "checked": false
+    },
+    {
+      "id": "214e3e1f-f345-433c-b3b4-d4c394468ec8",
+      "task": "Carlos",
+      "checked": false
+    }
+  ]
+}
